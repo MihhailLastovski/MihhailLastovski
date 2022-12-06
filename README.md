@@ -1,3 +1,1 @@
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MihhailLastovski)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MihhailLastovski&theme=synthwave)](https://git.io/streak-stats)
