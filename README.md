@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style="box-shadow: 5px 10px #888888" src="https://media.giphy.com/media/AibXOtCbZgwChaOWcz/giphy.gif" width="35%"/>
+  <img box-shadow="5px 10px #888888" src="https://media.giphy.com/media/AibXOtCbZgwChaOWcz/giphy.gif" width="35%"/>
 </div>
 
 
