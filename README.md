@@ -1,4 +1,4 @@
-<div id="header" align="center" sbox-shadow="0 0 50px red">
+<div id="header" align="center" border="1px solid white">
   <img box-shadow="5px 10px #888888" src="https://media.giphy.com/media/AibXOtCbZgwChaOWcz/giphy.gif" width="35%"/>
 </div>
 
