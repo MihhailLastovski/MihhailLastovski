@@ -1,3 +1,3 @@
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?MihhailLastovski&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MihhailLastovski)](https://git.io/streak-stats)
 
