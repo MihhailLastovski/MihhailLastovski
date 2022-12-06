@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=MihhailLastovski&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MihhailLastovski&theme=tokyonight)](https://git.io/streak-stats)
