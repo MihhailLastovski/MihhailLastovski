@@ -38,10 +38,12 @@
 
 ---
 
-<a href="https://github.com/MihhailLastovski">
-  ### VISITORS: 
-  <img width="100%" height="230" align="center" src="https://profile-counter.glitch.me/{MihhailLastovski}/count.svg"/>
-</a>
+<p align="center">
+### VISITORS: 
+</p>
 
+<a href="https://github.com/MihhailLastovski">
+  <img width="80%" height="120" align="center" src="https://profile-counter.glitch.me/{MihhailLastovski}/count.svg"/>
+</a>
 
 ---
