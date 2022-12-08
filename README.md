@@ -28,8 +28,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MihhailLastovski&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MihhailLastovski&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihhailLastovski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=MihhailLastovski&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihhailLastovski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 ---
 
