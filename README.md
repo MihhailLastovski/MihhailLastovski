@@ -24,21 +24,24 @@
 
 ---  
 
-<a href="">
+<a href="https://github.com/MihhailLastovski">
   <img width="100%" height="230" align="center" src="https://github-readme-stats.vercel.app/api?username=MihhailLastovski&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="">
+<a href="https://github.com/MihhailLastovski">
   <img width="100%" height="230" align="center" src="https://streak-stats.demolab.com?user=MihhailLastovski&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="">
+<a href="https://github.com/MihhailLastovski">
   <img width="100%" height="230" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihhailLastovski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </a>
 
 ---
 
-### VISITORS: 
-![Visitor Count](https://profile-counter.glitch.me/{MihhailLastovski}/count.svg)
+<a href="https://github.com/MihhailLastovski">
+  ### VISITORS: 
+  <img width="100%" height="230" align="center" src="https://profile-counter.glitch.me/{MihhailLastovski}/count.svg"/>
+</a>
+
 
 ---
