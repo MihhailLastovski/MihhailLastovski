@@ -30,6 +30,6 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{MihhailLastovski}/count.svg)
+### VISITORS: ![Visitor Count](https://profile-counter.glitch.me/{MihhailLastovski}/count.svg)
 
 ---
