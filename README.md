@@ -37,13 +37,3 @@
 </a>
 
 ---
-
-<p align="center">
-VISITORS
-</p>
-
-<a href="https://github.com/MihhailLastovski">
-  <img width="100%" height="100" align="center" src="https://profile-counter.glitch.me/{MihhailLastovski}/count.svg"/>
-</a>
-
----
