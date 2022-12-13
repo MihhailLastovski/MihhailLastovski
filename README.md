@@ -38,7 +38,7 @@
 
 ---
 
-### :pushpin: In the plans :
+### :pushpin: To Do List :
 
 - [ ] Currency Converter - С++
 - [ ] Digital Piano - C++
