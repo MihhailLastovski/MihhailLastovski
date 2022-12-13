@@ -37,3 +37,12 @@
 </a>
 
 ---
+
+### :pushpin: In the plans :
+
+- [ ] Currency Converter - С++
+- [ ] Digital Piano - C++
+- [ ] Modern Periodic Table - C
+- [ ] Customer Billing System - C
+- [ ] Download YouTube Videos - Go
+- [ ] Slack Bot - Go
