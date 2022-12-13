@@ -29,10 +29,6 @@
 </a>
 
 <a href="https://github.com/MihhailLastovski">
-  <img width="100%" height="230" align="center" src="https://streak-stats.demolab.com?user=MihhailLastovski&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/MihhailLastovski">
   <img width="100%" height="230" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihhailLastovski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </a>
 
