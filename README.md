@@ -37,7 +37,7 @@
 ### :pushpin: To Do List :
 
 - [x] Currency Converter - С++
-- [ ] Digital Piano - C++
+- [x] Digital Piano - C++
 - [ ] Modern Periodic Table - C
 - [ ] Customer Billing System - C
 - [ ] Download YouTube Videos - Go
