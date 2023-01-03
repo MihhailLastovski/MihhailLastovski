@@ -25,7 +25,7 @@
 ---  
 
 <a href="https://github.com/MihhailLastovski">
-  <img width="100%" height="230" align="center" src="https://streak-stats.demolab.com?user=MihhailLastovski&theme=tokyonight&hide_border=true" />
+  <img width="100%" height="230" align="center" src="https://streak-stats.demolab.com?user=MihhailLastovski&theme=tokyonight_duo&hide_border=true" />
 </a>
 
 <a href="https://github.com/MihhailLastovski">
