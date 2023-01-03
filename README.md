@@ -9,9 +9,7 @@
   <table>
     <tr>
       <td>
-        
-        ### :hammer_and_wrench: Languages and Tools :
-        
+        <div>  ### :hammer_and_wrench: Languages and Tools :   </div>
       </td>
       <td>
         
