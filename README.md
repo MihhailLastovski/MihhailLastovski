@@ -34,6 +34,10 @@
 
 ---
 
+[![Spotify](https://novatorem-mihhaillastovski.vercel.app/api/spotify)](https://open.spotify.com/user/21ixrz6pbbdv7kvtd7rx2zyea)
+
+---
+
 ### :pushpin: To Do List :
 
 - [x] Currency Converter - С++
