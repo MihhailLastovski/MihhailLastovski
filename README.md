@@ -6,8 +6,8 @@
 ---
 
 <div>
-  <table border="0pt solid black">
-    <tr border="0pt solid black">
+  <table>
+    <tr>
       <td>
         <div>:hammer_and_wrench: Languages and Tools :</div>
       </td>
