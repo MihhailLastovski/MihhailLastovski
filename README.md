@@ -9,10 +9,14 @@
   <table>
     <tr>
       <td>
-        ### :hammer_and_wrench: Languages and Tools :   
+        
+        ### :hammer_and_wrench: Languages and Tools :
+        
       </td>
       <td>
+        
         ### Now playing :   
+        
       </td>
     </tr>
     <tr>
