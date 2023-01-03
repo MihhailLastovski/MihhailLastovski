@@ -18,6 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  title="VS" alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://novatorem-mihhaillastovski.vercel.app/api/spotify" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 
@@ -34,7 +35,7 @@
 
 ---
 
-[![Spotify](https://novatorem-mihhaillastovski.vercel.app/api/spotify)](https://open.spotify.com/user/21ixrz6pbbdv7kvtd7rx2zyea)
+[![Spotify](](https://open.spotify.com/user/21ixrz6pbbdv7kvtd7rx2zyea)
 
 ---
 
