@@ -9,10 +9,10 @@
   <table>
     <thead>
       <td>
-        ###:hammer_and_wrench: Languages and Tools :
+        <h3>:hammer_and_wrench: Languages and Tools :</h3>
       </td>
       <td>
-        ###:headphones: Now playing :
+        <h3>:headphones: Now playing :</h3>
       </td>
     </thead>
     <thead>
