@@ -5,17 +5,17 @@
 
 ---
 
-  <div>
+<div>
   <table>
-    <tr>
-      <td id="test">
+    <tr background-color="rgba(0,0,0,0) !important">
+      <td>
         <div>:hammer_and_wrench: Languages and Tools :</div>
       </td>
       <td>
          <div>:headphones: Now playing :</div>  
       </td>
     </tr>
-    <tr background-color="var(--color-canvas-default)">
+    <tr background-color="rgba(0,0,0,0) !important">
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
