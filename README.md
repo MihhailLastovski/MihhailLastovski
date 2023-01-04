@@ -8,9 +8,11 @@
 <div>
   <table>
     <thead>
+      <tbody>
       <td>
         <div>:hammer_and_wrench: Languages and Tools :</div>
       </td>
+      </tbody>
       <td>
          <div>:headphones: Now playing :</div>  
       </td>
