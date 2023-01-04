@@ -6,9 +6,9 @@
 ---
 
 <div>
-  <table background-color="var(--color-canvas-default)">
+  <table>
     <tr>
-      <td border="0pt solid black">
+      <td id="test">
         <div>:hammer_and_wrench: Languages and Tools :</div>
       </td>
       <td>
@@ -58,3 +58,10 @@
 - [ ] Customer Billing System - C
 - [ ] Download YouTube Videos - Go
 - [ ] Slack Bot - Go
+
+<style>
+  .test
+  {
+    border: 0pt solid black;
+  }
+</style>
