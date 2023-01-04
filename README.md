@@ -50,10 +50,6 @@
 
 ---
 
-[![Spotify](https://spotify-readme-black.vercel.app/api)](https://open.spotify.com/user/21ixrz6pbbdv7kvtd7rx2zyea)
-
----
-
 ### :pushpin: To Do List :
 
 - [x] Currency Converter - С++
