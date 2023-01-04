@@ -8,11 +8,11 @@
 <div>
   <table>
     <tr>
-      <td>
+      <td border="0pt solid black">
         <div>:hammer_and_wrench: Languages and Tools :</div>
       </td>
       <td>
-         <div>Now playing :</div>  
+         <div>:headphones: Now playing :</div>  
       </td>
     </tr>
     <tr>
