@@ -6,7 +6,7 @@
 ---
 
 <div>
-  <table>
+  <table background-color="var(--color-canvas-default)">
     <tr>
       <td border="0pt solid black">
         <div>:hammer_and_wrench: Languages and Tools :</div>
