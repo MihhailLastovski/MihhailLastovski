@@ -7,7 +7,7 @@
 
 <div>
   <table>
-    <tr background-color="rgba(0,0,0,0) !important">
+    <tr style="background-color: rgba(0,0,0,0) !important">
       <td>
         <div>:hammer_and_wrench: Languages and Tools :</div>
       </td>
@@ -15,7 +15,7 @@
          <div>:headphones: Now playing :</div>  
       </td>
     </tr>
-    <tr background-color="rgba(0,0,0,0) !important">
+    <tr style="background-color: rgba(0,0,0,0) !important">
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
