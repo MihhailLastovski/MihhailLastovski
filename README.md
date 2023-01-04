@@ -1,3 +1,12 @@
+<style>
+.trstyle {
+    background-color: rgba(0,0,0,0)
+}
+</style>
+
+# Markdown heading styles {#identifier .trstyle}
+
+
 <div id="header" align="center">
   <img width="100%" height="400" src="https://media.giphy.com/media/AibXOtCbZgwChaOWcz/giphy.gif"/>
 </div>
@@ -7,7 +16,7 @@
 
 <div>
   <table>
-    <tr style="background-color: rgba(0,0,0,0) !important">
+    <tr>
       <td>
         <div>:hammer_and_wrench: Languages and Tools :</div>
       </td>
@@ -15,7 +24,7 @@
          <div>:headphones: Now playing :</div>  
       </td>
     </tr>
-    <tr style="background-color: rgba(0,0,0,0) !important">
+    <tr>
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
