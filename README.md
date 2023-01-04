@@ -1,12 +1,3 @@
-<style>
-.trstyle {
-    background-color: rgba(0,0,0,0)
-}
-</style>
-
-# Markdown heading styles {#identifier .trstyle}
-
-
 <div id="header" align="center">
   <img width="100%" height="400" src="https://media.giphy.com/media/AibXOtCbZgwChaOWcz/giphy.gif"/>
 </div>
@@ -16,15 +7,15 @@
 
 <div>
   <table>
-    <tr>
+    <thead>
       <td>
         <div>:hammer_and_wrench: Languages and Tools :</div>
       </td>
       <td>
          <div>:headphones: Now playing :</div>  
       </td>
-    </tr>
-    <tr>
+    </thead>
+    <thead>
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -41,7 +32,7 @@
       <td>
         <img src="https://novatorem-mihhaillastovski.vercel.app/api/spotify" title="Git" **alt="Git"/>
       </td>
-    </tr>
+    </thead>
   </table>
 </div>
 
