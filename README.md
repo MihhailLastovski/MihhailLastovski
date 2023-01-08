@@ -49,7 +49,7 @@
       </td>
       <td>
         <a href="https://github.com/MihhailLastovski">
-          <img width="100%" height="230" align="center" src="https://github-readme-stats-mihhaillastovski.vercel.app/api/top-langs/?  username=MihhailLastovski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+          <img width="100%" height="230" align="center" src="https://github-readme-stats-mihhaillastovski.vercel.app/api/top-langs/?username=MihhailLastovski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
         </a>
       </td>
     </thead>
