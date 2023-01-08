@@ -55,9 +55,6 @@
 
 ---  
 
-
----
-
 ### :pushpin: To Do List :
 
 - [x] Currency Converter - С++
