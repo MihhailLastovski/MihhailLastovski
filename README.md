@@ -35,10 +35,7 @@
     </thead>
     <thead>
       <td>
-        <h3>:hammer_and_wrench: Stats :</h3>
-      </td>
-      <td>
-        <h3>:headphones: Lang :</h3>
+        <h3>:hammer_and_wrench: Statistics :</h3>
       </td>
     </thead>
     <thead>
