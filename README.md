@@ -35,7 +35,7 @@
     </thead>
     <thead>
       <td>
-        <h3>:hammer_and_wrench: Statistics :</h3>
+        <h3>:bar_chart: Statistics :</h3>
       </td>
     </thead>
     <thead>
