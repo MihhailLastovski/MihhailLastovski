@@ -1,10 +1,3 @@
-<div id="header" align="center">
-  <img width="100%" height="400" src="https://media.giphy.com/media/AibXOtCbZgwChaOWcz/giphy.gif"/>
-</div>
-
-
----
-
 <div>
   <table>
     <thead>
