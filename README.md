@@ -45,14 +45,3 @@
     </thead>
   </table>
 </div>
-
----  
-
-### :pushpin: To Do List :
-
-- [x] Currency Converter - С++
-- [x] Digital Piano - C++
-- [ ] Modern Periodic Table - C
-- [ ] Customer Billing System - C
-- [ ] Download YouTube Videos - Go
-- [ ] Slack Bot - Go
