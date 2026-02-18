@@ -3,10 +3,6 @@
     <thead>
       <td>
         <h3>:hammer_and_wrench: Languages and Tools :</h3>
-      </td>
-      <td>
-        <h3>:headphones: Now playing :</h3>
-      </td>
     </thead>
     <thead>
       <td>
