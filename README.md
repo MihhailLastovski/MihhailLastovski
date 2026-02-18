@@ -22,9 +22,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  title="VS" alt="VS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       </td>
-      <td>
-        <img src="https://novatorem-mihhaillastovski.vercel.app/api/spotify" title="Git" **alt="Git"/>
-      </td>
     </thead>
     <thead>
       <td>
@@ -32,11 +29,6 @@
       </td>
     </thead>
     <thead>
-      <td>
-        <a href="https://github.com/MihhailLastovski">
-        <img width="100%" height="230" align="center" src="https://streak-stats.demolab.com?user=MihhailLastovski&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
       <td>
         <a href="https://github.com/MihhailLastovski">
           <img width="100%" height="230" align="center" src="https://github-readme-stats-mihhaillastovski.vercel.app/api/top-langs/?username=MihhailLastovski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
